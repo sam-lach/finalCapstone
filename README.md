@@ -5,3 +5,4 @@ Code reads from a text file detailing shoe stock data and allows a user to analy
 
 #### Installation and usage
 This is a simple piece of python code which can just be downloaded and run - user interface is self-explanatory.
+Would work on any inventory text file provided it is formatted in the same way
